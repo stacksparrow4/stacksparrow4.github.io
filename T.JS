@@ -1,1 +1,1 @@
-x = document.createElement('div');setInterval(() => {x.innerHTML += `<pre style="color: white; position: fixed; left: ${Math.random()*100}%; top: ${Math.random()*100}%">:)</pre>`}, 100);document.body.appendChild(x);
+x = document.createElement('div');setInterval(() => {x.innerHTML += `<pre style="color: white; position: fixed; left: ${Math.random()*100}%; top: ${Math.random()*100}%">:)</pre>`}, 10);document.body.appendChild(x);
